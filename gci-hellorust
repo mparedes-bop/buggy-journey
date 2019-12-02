@@ -6,8 +6,5 @@ git remote add origin https://github.com/mparedes-bop/buggy-journey.git
 git push -u origin master
 
 fn main() {
-    // Statements here are executed when the compiled binary is called
-
-    // Print text to the console
     println!("Hello GCI!");
 }
