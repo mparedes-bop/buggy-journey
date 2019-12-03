@@ -1,3 +1,3 @@
-# buggy-journey
-# Code for the GCI Rust task 
-# Where we create a function in Rust that prints "Hello GCI!"
+# Repositories keep projects and other files organized 
+# README files are text files that provide information on what you are working on
+# Commits are really cool 
